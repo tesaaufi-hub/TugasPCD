@@ -10,4 +10,5 @@
         <maven.compiler.release>26</maven.compiler.release>
         <exec.mainClass>com.mycompany.tugaspcd.TugasPCD</exec.mainClass>
     </properties>
+    <name>tugasPCD</name>
 </project>
